@@ -1,10 +1,10 @@
-# 🍽️ Simple Restaurant Cashier
+# Simple Restaurant Cashier
 
-> A web-based restaurant cashier application built with **Go (net/http)** — no external frameworks, no external database, and no third-party Go dependencies beyond bundled UI libraries.
+> A web-based restaurant cashier application built with **Go (net/http)**. No external frameworks, no external database, and no third-party Go dependencies beyond bundled UI libraries.
 
 ---
 
-## 📋 Table of Contents
+## Table of Contents
 
 - [Overview](#overview)
 - [Features](#features)
