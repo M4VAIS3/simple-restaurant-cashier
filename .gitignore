@@ -1,0 +1,18 @@
+# Build artefacts
+tmp/
+*.exe
+*.log
+
+# Runtime data
+data/data.json
+
+# Go
+*.test
+*.out
+vendor/
+
+# OS
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
